@@ -74,6 +74,13 @@ Sum Query :
 ![](https://media.geeksforgeeks.org/wp-content/uploads/seg2D.png)
 
 
+# Range minimum query
+- Find minimum value for given index range
+    ![](assets/min-range-query.png)
+- 
+## Reference
+https://www.youtube.com/watch?v=DpSYj7t1sbQ
+
 # Problems
 ## 1d
 https://leetcode.com/problems/range-sum-query-mutable/
