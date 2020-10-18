@@ -1,4 +1,6 @@
 # Why Segment Tree?
+- Also called as interval tree
+- Also called as Tournament tree
 - Used to run Range sum query
 - I.e. sum of all nums for given range
 ![](assets/range-sum-query.png)
@@ -8,6 +10,7 @@
 ![](assets/compare.png)
 - Also used to run range min query
 ![](assets/range-min-query.png)
+
 # Construct Segment tree
 - Use partition algo of merge sort to partition array into fragments
 ![](assets/partition.png)
@@ -36,6 +39,12 @@
 ![](assets/time-complexity.png)
 # Comparison
 ![](assets/compare-algo.png)
+# Recap on  Segment tree
+- A segment tree is a binary tree 
+- nodes on the bottom level of the
+tree correspond to the array elements
+- other nodes contain information
+needed for processing range queries
 
 # Segment tree for min range query
 - Instead of sum, get minimum while creating segment tree
@@ -86,9 +95,19 @@ https://www.youtube.com/watch?v=DpSYj7t1sbQ
 https://leetcode.com/problems/range-sum-query-mutable/
 ## 2d
 https://leetcode.com/problems/range-sum-query-2d-mutable/
+
+# More problems
+https://leetcode.com/tag/segment-tree/
+https://cp-algorithms.com/data_structures/segment_tree.html
+
 # Reference
 https://www.youtube.com/watch?v=ZBHKZF5w4YU
 
 https://www.youtube.com/watch?v=2bSS8rtFym4
 
 https://www.geeksforgeeks.org/two-dimensional-segment-tree-sub-matrix-sum/
+
+https://www.youtube.com/watch?v=Tr-xEGoByFQ
+
+
+https://cses.fi/book/book.pdf
