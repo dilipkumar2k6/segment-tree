@@ -9,6 +9,7 @@
 - Segment tree is used when input is frequently get mutated
 ![](assets/compare.png)
 - Also used to run range min query
+
 ![](assets/range-min-query.png)
 
 # Construct Segment tree
@@ -86,7 +87,8 @@ Sum Query :
 # Range minimum query
 - Find minimum value for given index range
     ![](assets/min-range-query.png)
-- 
+- Algorithm
+![](assets/min-range-segment-tree.png)
 ## Reference
 https://www.youtube.com/watch?v=DpSYj7t1sbQ
 
