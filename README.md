@@ -95,10 +95,15 @@ https://www.youtube.com/watch?v=DpSYj7t1sbQ
 # Problems
 ## 1d
 https://leetcode.com/problems/range-sum-query-mutable/
+
+https://leetcode.com/problems/count-of-range-sum/
+
 ## 2d
 https://leetcode.com/problems/range-sum-query-2d-mutable/
 
 # More problems
+https://leetcode.com/problems/falling-squares/
+
 https://leetcode.com/tag/segment-tree/
 https://cp-algorithms.com/data_structures/segment_tree.html
 
